@@ -109,8 +109,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539298
-		objId: 486539298
+		id: q486539290
+		objId: 486539290
 		x: 383
 		y: 194
 		width: 97
@@ -134,14 +134,14 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539299
-		objId: 486539299
+		id: q486539291
+		objId: 486539291
 		x: 287
 		y: 194
 		width: 97
 		height: 34
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/24#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/19#2#4#128#0#0"
 		qm_Border.top: 12
 		qm_Border.bottom: 12
 		qm_Border.right: 2
@@ -159,8 +159,8 @@ IGuiDialogView
 	}
 	IGuiGraphicButton
 	{
-		id: q486539300
-		objId: 486539300
+		id: q486539292
+		objId: 486539292
 		x: 446
 		y: 0
 		width: 34
