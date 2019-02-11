@@ -759,9 +759,9 @@ IGuiPage
 	{
 		id: q268435483
 		objId: 268435483
-		x: 416
+		x: 428
 		y: 452
-		width: 99
+		width: 72
 		height: 23
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"

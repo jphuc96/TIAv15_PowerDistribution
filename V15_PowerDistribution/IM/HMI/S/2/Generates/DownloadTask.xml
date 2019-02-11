@@ -2,10 +2,10 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.0.0.0"
-    CreationTime="2019-01-15 16:44:05 (UTC)"
+    CreationTime="2019-02-11 11:50:09 (UTC)"
     Runtime="SMART"
-    RtProjectName="Test_Fault_LowVoltage_V15.Main_HMI[KTP700 Basic PN]"
-    RtProjectFolderName="Test_Fault_LowVoltage_V15.Main_HMI[KTP700 Basic PN]"
+    RtProjectName="V15_PowerDistribution.Main_HMI[KTP700 Basic PN]"
+    RtProjectFolderName="V15_PowerDistribution.Main_HMI[KTP700 Basic PN]"
     DeviceType="KTP700_Basic"
     DisplayOrientation="0"
     RTReleaseNo="15.0.0.0"
